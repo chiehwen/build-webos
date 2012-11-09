@@ -48,6 +48,8 @@ This may take in the neighborhood of two hours on a multi-core workstation with 
 
 Running
 =======
+XXX Needs to be updated for the requirement that KVM be installed -- see [OWEBOS-2603]
+
 To run the resulting build in the qemux86 emulator, enter:
 
     $ cd BUILD-qemux86
